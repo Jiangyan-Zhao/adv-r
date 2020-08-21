@@ -47,3 +47,4 @@ You may also be interested in:
   how to make the most of R's fantastic package system.
 
 `r if (knitr::is_latex_output()) '-->'`
+
